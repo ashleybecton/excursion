@@ -11,3 +11,15 @@ p{
   text-align: center;
   font-family: Verdana;
 }
+h2{
+  font-family: Verdana;
+  font-weight: 300;
+  font-size: 42px;
+  color: white;
+  text-align: center;
+}
+.gray {
+  font-family: Verdana;
+  font-size: 21px;
+  color: gray;
+}
